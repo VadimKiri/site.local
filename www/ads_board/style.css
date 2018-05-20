@@ -1,0 +1,17 @@
+.main_table {
+	display: table;
+	border-collapse: collapse;
+    border-spacing: 2px;
+    border-color: gray;
+}
+
+td {
+	border-collapse: collapse;
+	border: 2px solid lightgray;
+	padding: 5px;
+    padding-right: 30px;
+}
+
+a {
+  text-decoration: none;
+}
